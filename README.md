@@ -27,7 +27,7 @@
 
 
 #### 概览
-![](https://github.com/lushubei/easyScrum/img/easyScrumProcess.jpg) 
+![](https://github.com/lushubei/easyScrum/img/easyScrumProcess.png) 
 
 #### 交流  
 欢迎大家线下交流.   
