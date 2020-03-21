@@ -27,7 +27,7 @@
 
 
 #### 概览
-![](https://github.com/lushubei/easyScrum/img/easyScrumProcess.png) 
+[easyScrum敏捷研发流程图](http://shubei-blog.oss-cn-beijing.aliyuncs.com/pasteimageintomarkdown/2020-03-11/584759702127000.jpg?Expires=4737507448&OSSAccessKeyId=LTAI4Fv8o4J1qrtFrYcJsmA2&Signature=lJ3tlFCGL7tOtIbXIa5oI3nVU%2B0%3D)
 
 #### 交流  
 欢迎大家线下交流.   
